@@ -1,10 +1,6 @@
 # Machine Learning with Jupyter Notebook  
 
-This repository contains various Machine Learning algorithms and techniques implemented in Jupyter Notebook with the help of MobaXterm.  
-
-## Installation  
-
-To run the code in this repository, install the necessary dependencies using:  
+This repository contains various Machine Learning algorithms and techniques implemented in Jupyter Notebook with the help of MobaXterm.   
 
 ### Topics Covered
 
